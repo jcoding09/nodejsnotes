@@ -1,0 +1,28 @@
+{
+  "name": "nodejsnotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git add . && git-cz",
+    "build": "node generatePdf && generate-md --layout markedapp-byword --input ./notes/lectures.md --output ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcoding09/nodejsnotes.git"
+  },
+  "author": "jcoding09",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jcoding09/nodejsnotes/issues"
+  },
+  "homepage": "https://github.com/jcoding09/nodejsnotes#readme",
+  "dependencies": {
+    "markdown-styles": "^3.2.0",
+    "pretty-markdown-pdf": "^1.5.2",
+    "puppeteer": "^22.6.5"
+  },
+  "devDependencies": {
+    "git-cz": "latest"
+  }
+}

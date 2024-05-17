@@ -14,7 +14,7 @@
 
 #### [Topic 005: Authentication using passportJS + JWT & passportJS + Oauth in Node.jS](./notes/notes001/notes001-005.md)
 
-#### [opic 006: Different types of middleware implementation in Node.js.](./notes/notes001/notes001-006.md)
+#### [Topic 006: Different types of middleware implementation in Node.js.](./notes/notes001/notes001-006.md)
 
 #### [Topic 007: Difference between require() and import in Node.js](./notes/notes001/notes001-007.md)
 

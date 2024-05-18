@@ -23,3 +23,13 @@
 #### [Topic 009: Basic features in Node.js](./notes/notes001/notes001-009.md)
 
 #### [Topic 010: Clustering in Node.js](./notes/notes001/notes001-010.md)
+
+#### [Topic 011: Code snippets for controllers, routes, services, models and app.js/server.js in Node.js](./notes/notes001/notes001-011.md)
+
+#### [Topic 012: ORMs & ODMs in Node.js](./notes/notes001/notes001-012.md)
+
+#### [Topic 013: Complex DB queries in Node.js](./notes/notes001/notes001-013.md)
+
+#### [Topic 014: Test, build and deployment](./notes/notes001/notes001-014.md)
+
+#### [Topic 015: Design pattern in Node.js](./notes/notes001/notes001-015.md)

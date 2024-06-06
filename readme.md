@@ -35,3 +35,7 @@
 #### [Topic 015: Design pattern in Node.js](./notes/notes001/notes001-015.md)
 
 #### [Topic 016: Nested-Categories-Management in MERN](./notes/notes001/notes001-016.md)
+
+#### [Topic 017: Custom middleware in MERN](./notes/notes001/notes001-017.md)
+
+#### [Topic 018: Display JSON in MERN](./notes/notes001/notes001-018.md)

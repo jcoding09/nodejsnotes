@@ -38,4 +38,4 @@
 
 #### [Topic 017: Custom middleware in MERN](./notes/notes001/notes001-017.md)
 
-#### [Topic 018: Display JSON in MERN](./notes/notes001/notes001-018.md)
+#### [Topic 018: Display JSON in Nodejs](./notes/notes001/notes001-018.md)

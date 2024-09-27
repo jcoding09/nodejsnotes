@@ -41,3 +41,7 @@
 #### [Topic 018: Display JSON in Nodejs](./notes/notes001/notes001-018.md)
 
 #### [Topic 019: NodeJS `fs` and `https-proxy-agent` module](./notes/notes001/notes001-019.md)
+
+#### [Topic 020: NodeJS handling Undefined Values in API Responses: A Guide to Sanitization and Error Management](./notes/notes001/notes001-020.md)
+
+#### [Topic 021: Node.js: A Step-by-Step Guide to Handling Asynchronous JWT Verification](./notes/notes001/notes001-021.md)

@@ -47,3 +47,5 @@
 #### [Topic 021: Node.js: A Step-by-Step Guide to Handling Asynchronous JWT Verification](./notes/notes001/notes001-021.md)
 
 #### [Topic 022: Optimizing Token Management Using Caching for API Calls](./notes/notes001/notes001-022.md)
+
+#### [Topic 023: Building a Token Management System and Handling Conditional Redirects in Node.js: A Step-by-Step Guide to Expiration, Logging, and User Workflow Management](./notes/notes001/notes001-023.md)

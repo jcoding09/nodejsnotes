@@ -45,3 +45,5 @@
 #### [Topic 020: NodeJS handling Undefined Values in API Responses: A Guide to Sanitization and Error Management](./notes/notes001/notes001-020.md)
 
 #### [Topic 021: Node.js: A Step-by-Step Guide to Handling Asynchronous JWT Verification](./notes/notes001/notes001-021.md)
+
+#### [Topic 022: Optimizing Token Management Using Caching for API Calls](./notes/notes001/notes001-022.md)

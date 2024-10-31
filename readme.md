@@ -49,3 +49,5 @@
 #### [Topic 022: Optimizing Token Management Using Caching for API Calls](./notes/notes001/notes001-022.md)
 
 #### [Topic 023: Building a Token Management System and Handling Conditional Redirects in Node.js: A Step-by-Step Guide to Expiration, Logging, and User Workflow Management](./notes/notes001/notes001-023.md)
+
+#### [Topic 024: Validating JSON Web Tokens (JWT) Using JSON Web Keys (JWKS) in Node.js Without `jwks-rsa`](./notes/notes001/notes001-024.md)
